@@ -1,0 +1,205 @@
+cod_prod;grp_nivel;mes;anio;meta
+1;Digital;1;2020;85000
+1;Digital;2;2020;87500
+1;Digital;3;2020;90000
+1;Digital;4;2020;92500
+1;Digital;5;2020;95000
+1;Digital;6;2020;97500
+1;Digital;7;2020;100000
+1;Digital;8;2020;102500
+1;Digital;9;2020;105000
+1;Digital;10;2020;107500
+1;Digital;11;2020;110000
+1;Digital;12;2020;112500
+2;Preaprobados;1;2020;1300
+2;Preaprobados;2;2020;1400
+2;Preaprobados;3;2020;1500
+2;Preaprobados;4;2020;1600
+2;Preaprobados;5;2020;1700
+2;Preaprobados;6;2020;1800
+2;Preaprobados;7;2020;1900
+2;Preaprobados;8;2020;2000
+2;Preaprobados;9;2020;2100
+2;Preaprobados;10;2020;2200
+2;Preaprobados;11;2020;2300
+2;Preaprobados;12;2020;2400
+2;Solicitudes Web;1;2020;50
+2;Solicitudes Web;2;2020;55
+2;Solicitudes Web;3;2020;60
+2;Solicitudes Web;4;2020;65
+2;Solicitudes Web;5;2020;70
+2;Solicitudes Web;6;2020;75
+2;Solicitudes Web;7;2020;80
+2;Solicitudes Web;8;2020;85
+2;Solicitudes Web;9;2020;90
+2;Solicitudes Web;10;2020;95
+2;Solicitudes Web;11;2020;100
+2;Solicitudes Web;12;2020;105
+3;Digital;1;2020;3800
+3;Digital;2;2020;3900
+3;Digital;3;2020;4000
+3;Digital;4;2020;4100
+3;Digital;5;2020;4200
+3;Digital;6;2020;4300
+3;Digital;7;2020;4400
+3;Digital;8;2020;4500
+3;Digital;9;2020;4600
+3;Digital;10;2020;4700
+3;Digital;11;2020;4800
+3;Digital;12;2020;4900
+4;Digital;1;2020;20000
+4;Digital;2;2020;21000
+4;Digital;3;2020;22000
+4;Digital;4;2020;23000
+4;Digital;5;2020;24000
+4;Digital;6;2020;25000
+4;Digital;7;2020;26000
+4;Digital;8;2020;27000
+4;Digital;9;2020;28000
+4;Digital;10;2020;29000
+4;Digital;11;2020;30000
+4;Digital;12;2020;31000
+5;Digital;1;2020;4500
+5;Digital;2;2020;4700
+5;Digital;3;2020;4900
+5;Digital;4;2020;5100
+5;Digital;5;2020;5300
+5;Digital;6;2020;5500
+5;Digital;7;2020;5700
+5;Digital;8;2020;5900
+5;Digital;9;2020;6100
+5;Digital;10;2020;6300
+5;Digital;11;2020;6500
+5;Digital;12;2020;6700
+6;Autogestion;1;2020;50000
+6;Autogestion;2;2020;52000
+6;Autogestion;3;2020;54000
+6;Autogestion;4;2020;56000
+6;Autogestion;5;2020;58000
+6;Autogestion;6;2020;60000
+6;Autogestion;7;2020;62000
+6;Autogestion;8;2020;64000
+6;Autogestion;9;2020;66000
+6;Autogestion;10;2020;68000
+6;Autogestion;11;2020;70000
+6;Autogestion;12;2020;72000
+7;Digital;1;2020;9000
+7;Digital;2;2020;9500
+7;Digital;3;2020;10000
+7;Digital;4;2020;10500
+7;Digital;5;2020;11000
+7;Digital;6;2020;11500
+7;Digital;7;2020;12000
+7;Digital;8;2020;12500
+7;Digital;9;2020;13000
+7;Digital;10;2020;13500
+7;Digital;11;2020;14000
+7;Digital;12;2020;14500
+8;Digital;1;2020;7000
+8;Digital;2;2020;7500
+8;Digital;3;2020;8000
+8;Digital;4;2020;8500
+8;Digital;5;2020;9000
+8;Digital;6;2020;9500
+8;Digital;7;2020;10000
+8;Digital;8;2020;10500
+8;Digital;9;2020;11000
+8;Digital;10;2020;11500
+8;Digital;11;2020;12000
+8;Digital;12;2020;12500
+9;Preaprobados;1;2020;300
+9;Preaprobados;2;2020;320
+9;Preaprobados;3;2020;340
+9;Preaprobados;4;2020;360
+9;Preaprobados;5;2020;380
+9;Preaprobados;6;2020;400
+9;Preaprobados;7;2020;420
+9;Preaprobados;8;2020;440
+9;Preaprobados;9;2020;460
+9;Preaprobados;10;2020;480
+9;Preaprobados;11;2020;500
+9;Preaprobados;12;2020;520
+9;Solicitudes Web;1;2020;5
+9;Solicitudes Web;2;2020;10
+9;Solicitudes Web;3;2020;15
+9;Solicitudes Web;4;2020;20
+9;Solicitudes Web;5;2020;25
+9;Solicitudes Web;6;2020;30
+9;Solicitudes Web;7;2020;35
+9;Solicitudes Web;8;2020;40
+9;Solicitudes Web;9;2020;45
+9;Solicitudes Web;10;2020;50
+9;Solicitudes Web;11;2020;55
+9;Solicitudes Web;12;2020;60
+10;Preaprobados;1;2020;8500
+10;Preaprobados;2;2020;9000
+10;Preaprobados;3;2020;9500
+10;Preaprobados;4;2020;10000
+10;Preaprobados;5;2020;10500
+10;Preaprobados;6;2020;11000
+10;Preaprobados;7;2020;11500
+10;Preaprobados;8;2020;12000
+10;Preaprobados;9;2020;12500
+10;Preaprobados;10;2020;13000
+10;Preaprobados;11;2020;13500
+10;Preaprobados;12;2020;14000
+10;Solicitudes Web;1;2020;700
+10;Solicitudes Web;2;2020;750
+10;Solicitudes Web;3;2020;800
+10;Solicitudes Web;4;2020;850
+10;Solicitudes Web;5;2020;900
+10;Solicitudes Web;6;2020;950
+10;Solicitudes Web;7;2020;1000
+10;Solicitudes Web;8;2020;1050
+10;Solicitudes Web;9;2020;1100
+10;Solicitudes Web;10;2020;1150
+10;Solicitudes Web;11;2020;1200
+10;Solicitudes Web;12;2020;1250
+10;Respuesta al frente;1;2020;200
+10;Respuesta al frente;2;2020;220
+10;Respuesta al frente;3;2020;240
+10;Respuesta al frente;4;2020;260
+10;Respuesta al frente;5;2020;280
+10;Respuesta al frente;6;2020;300
+10;Respuesta al frente;7;2020;320
+10;Respuesta al frente;8;2020;340
+10;Respuesta al frente;9;2020;360
+10;Respuesta al frente;10;2020;380
+10;Respuesta al frente;11;2020;400
+10;Respuesta al frente;12;2020;420
+11;Autogestion;1;2020;9000
+11;Autogestion;2;2020;9500
+11;Autogestion;3;2020;10000
+11;Autogestion;4;2020;10500
+11;Autogestion;5;2020;11000
+11;Autogestion;6;2020;11500
+11;Autogestion;7;2020;12000
+11;Autogestion;8;2020;12500
+11;Autogestion;9;2020;13000
+11;Autogestion;10;2020;13500
+11;Autogestion;11;2020;14000
+11;Autogestion;12;2020;14500
+12;Preaprobados;1;2020;10000
+12;Preaprobados;2;2020;11000
+12;Preaprobados;3;2020;12000
+12;Preaprobados;4;2020;13000
+12;Preaprobados;5;2020;14000
+12;Preaprobados;6;2020;15000
+12;Preaprobados;7;2020;16000
+12;Preaprobados;8;2020;17000
+12;Preaprobados;9;2020;18000
+12;Preaprobados;10;2020;19000
+12;Preaprobados;11;2020;20000
+12;Preaprobados;12;2020;21000
+12;Solicitudes Web;1;2020;5000
+12;Solicitudes Web;2;2020;5500
+12;Solicitudes Web;3;2020;6000
+12;Solicitudes Web;4;2020;6500
+12;Solicitudes Web;5;2020;7000
+12;Solicitudes Web;6;2020;7500
+12;Solicitudes Web;7;2020;8000
+12;Solicitudes Web;8;2020;8500
+12;Solicitudes Web;9;2020;9000
+12;Solicitudes Web;10;2020;9500
+12;Solicitudes Web;11;2020;10000
+12;Solicitudes Web;12;2020;10500
